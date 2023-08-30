@@ -7,9 +7,9 @@
  (Cek dokumentasi untuk melihat detail informasi atribut)
 */
 
-CREATE DATABASE data_fariz;
+CREATE DATABASE data;
 
-USE data_fariz;
+USE data;
 
 CREATE TABLE automobile(
     id INT NOT NULL AUTO_INCREMENT,
